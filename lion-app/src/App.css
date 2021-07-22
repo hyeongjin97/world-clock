@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+}
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
+}
+
+.mystyle {
+
+  color: red;
+  font-size: 35px;
+
+}
+.post{
+  
+  width: 600px;
+  padding: 30px;
+  border: 7px solid red;
+  margin-bottom: 20px;
+
+}
+
+.WorldClock{
+  
+  margin-bottom: 20px;
+}
+
+.text{
+  display: flex;
+  margin: auto;
+  margin-top: 10px;
+}
+
